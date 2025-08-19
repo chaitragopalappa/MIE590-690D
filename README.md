@@ -1,6 +1,50 @@
 MIE590/690D Deep Learning for Engineering  
-0. [Syllabus](https://nbviewer.org/github/chaitragopalappa/MIE590-690D/blob/main/0_Syllabus.ipynb){:target="_blank"}
-1. [Introduction](https://nbviewer.org/github/chaitragopalappa/MIE590-690D/blob/main/1_Intro.ipynb){:target="_blank"}
-2. [Fundamentals of AI/ML](https://hub.gesis.mybinder.org/user/chaitragopalappa-mie590-690d-soq69skm/notebooks/1_Fundamentals_of_AI_ML.ipynb)
-3. [FFNN](2_FFNN.md)
-4. [FNNN](https://nbviewer.org/github/chaitragopalappa/MIE590-690D/blob/main/2_Feed_forward_neural_networks.ipynb)
+<style>
+.toc-container {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  border-right: 1px solid #ccc;
+}
+.content {
+  margin-left: 22%;
+  padding: 10px;
+}
+</style>
+
+<div class="toc-container">
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Background](#background)
+- [Methods](#methods)
+- [Results](#results)
+- [Discussion](#discussion)
+- [Conclusion](#conclusion)
+
+</div>
+
+<div class="content">
+
+# My Document Title
+
+## Introduction
+Some intro text here.
+
+## Background
+Background content.
+
+## Methods
+Details on methods.
+
+## Results
+Results section.
+
+## Discussion
+Discussion and interpretation.
+
+## Conclusion
+Final thoughts.
+
+</div>
+
