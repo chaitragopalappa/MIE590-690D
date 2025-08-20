@@ -1,5 +1,6 @@
 # MIE 590/690D Course Syllabus
 ### [Course Description](#CourseDescription)
+### [Prerequisites](#Prerequisites)
 ### [References](#References)
 ### [Topics](#Topics)
 ### [Tentative Agenda](#TentativeAgenda)
@@ -8,7 +9,7 @@
 ### <a id="CourseDescription"></a> Course Description
 This course provides an in-depth exploration of deep learning techniques and their practical applications across various engineering disciplines. Topics include Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Autoencoders, and Transformers to solve complex engineering challenges. Additionally, the course delves into the growing field of Explainable Machine Learning (XAI), ensuring that students learn to not only create powerful models but also focus on techniques for explainability, which are relevant in safety-critical applications, and to make models more transparent and understandable to stakeholders in engineering contexts to enhance model deployment. Assignments in the 600-level class will have a methodological component that requires a deeper understanding of the techniques studied, beyond their computational implementation. 
 
-Prerequisites 
+### <a id="Prerequisites"></a> Prerequisites   
 1.	Programming in Python, linear algebra, probability and statistics
 2.	Statistical Machine Learning Recommended
 
