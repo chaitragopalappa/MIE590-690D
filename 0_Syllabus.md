@@ -47,12 +47,12 @@ Week	| Topic	| Lecture | Content
 * Week 14	Large Language Models 	Applications in engineering
 
 ### <a id="Assignments"></a> Assignments
-Assignments for the 600-level class will have an additional question that requires a deeper understanding of the techniques studied, beyond their computational implementation.
+Assignments for the 600-level class will have an additional question that requires a deeper understanding of the techniques studied, beyond their computational implementation.  
 
-Grading  
-–	Midterm 1- 20 points
-–	Midterm 2- 20 points
-–	Computational (in Python) assignments 30 points
+**Grading**  
+–	Midterm 1- 20 points  
+–	Midterm 2- 20 points  
+–	Computational (in Python) assignments 30 points  
 –	Project: 30 points 
 
 
