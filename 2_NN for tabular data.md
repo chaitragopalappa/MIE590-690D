@@ -1,3 +1,4 @@
+[copy](https://nbviewer.org/github/chaitragopalappa/MIE590-690D/blob/main/2_Neural_networks_for_tabular_data.ipynb)
 <script type="text/javascript" async>
 window.MathJax = {
   tex: {
