@@ -16,9 +16,19 @@ This course provides an in-depth exploration of deep learning techniques and the
 ### <a id="References"></a> References  
 
 1. [Probabilistic machine learing, An Introduction, Kevn Murphy, MIT Press, 2022](https://probml.github.io/pml-book/book1.html); Chapters 13, 14, and 15      
-2.  I will additional resources to supplement the main book.
-  3. [Deep learning with Python (second edition) Francois Chollet, 2021](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)       
-  4. [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press, 2016](http://www.deeplearningbook.org)
+2.  I will additional resources to supplement the main book
+    3.  [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press, 2016](http://www.deeplearningbook.org)
+
+Open source books with sample codes
+* [Deep learning with Python, Francois Chollet](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)
+  * [GITHUB with Keras](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/README.md)
+* [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+* XAI packages  
+  * [SHAP](https://github.com/shap/shap#deep-learning-example-with-gradientexplainer-tensorflowkeraspytorch-models)  
+  * [CAPTUM](https://captum.ai/docs/attribution_algorithms)  
+  * [TF-Explain](https://pypi.org/project/tf-explain/) [GitHUB](https://github.com/sicara/tf-explain)
+* [Hands-On-Deep-Learning-Algorithms-with-Python](https://github.com/PacktPublishing/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master)
+  
 
 ### <a id="Topics"></a> Topics  
 
