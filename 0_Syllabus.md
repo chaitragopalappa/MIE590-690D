@@ -19,7 +19,7 @@ This course provides an in-depth exploration of deep learning techniques and the
 
 2.  I will additional resources to supplement the main book
 * [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press, 2016](http://www.deeplearningbook.org)
-* [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow (3rd edition), by Ageron Handson](https://github.com/ageron/handson-ml3)
+* [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow (3rd edition), by Aurélien Geron](https://github.com/ageron/handson-ml3)
 * [Deep learning with Python, Francois Chollet](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)
   * [GITHUB with Keras](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/README.md)
 * [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
