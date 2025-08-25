@@ -7,7 +7,9 @@
 ### [Assignments](#Assignments)
 
 ### <a id="CourseDescription"></a> Course Description
-This course provides an in-depth exploration of deep learning techniques and their practical applications across various engineering disciplines. Topics include Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Autoencoders, and Transformers to solve complex engineering challenges. Additionally, the course delves into the growing field of Explainable Machine Learning (XAI), ensuring that students learn to not only create powerful models but also focus on techniques for explainability, which are relevant in safety-critical applications, and to make models more transparent and understandable to stakeholders in engineering contexts to enhance model deployment. Assignments in the 600-level class will have a methodological component that requires a deeper understanding of the techniques studied, beyond their computational implementation. 
+This course provides an in-depth exploration of deep learning techniques and their practical applications across various engineering disciplines. Topics include Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Autoencoders, and Transformers to solve complex engineering challenges. Additionally, the course delves into the growing field of Explainable Machine Learning (XAI), ensuring that students learn to not only create powerful models but also focus on techniques for explainability, which are relevant in safety-critical applications, and to make models more transparent and understandable to stakeholders in engineering contexts to enhance model deployment. 
+
+590D v 690D: Assignments in the 600-level class will have an additional question that requires a deeper understanding of the mathematical concepts underlying the algorithms. 
 
 ### <a id="Prerequisites"></a> Prerequisites   
 1.	Programming in Python, linear algebra, probability and statistics
@@ -41,7 +43,7 @@ This course provides an in-depth exploration of deep learning techniques and the
 ### <a id="TentativeAgenda"></a> Tentative Agenda
 Week	| Topic	| Lecture | Content  
 * Week 1	Introduction 	Overview of deep learning in engineering fields     
-**Neural Networks for tabular data**  
+**Neural Networks for Tabular Data**  
 * Week 2	Overview of optimization techniques	Gradient descent, and optimization techniques  
 * Week 3	Deep neural network architecture	ANN architecture, neurons, activation functions, backpropagation
 * Week 4	Best practices	Regularization methods (L2, dropout), batch normalization, weight initialization strategies
@@ -59,7 +61,7 @@ Week	| Topic	| Lecture | Content
 * Week 14	Large Language Models 	Applications in engineering
 
 ### <a id="Assignments"></a> Assignments
-Assignments for the 600-level class will have an additional question that requires a deeper understanding of the techniques studied, beyond their computational implementation.  
+Assignments for the 600-level class will have an additional question that requires a deeper understanding of the mathematical concepts of the algorithms.  
 
 **Grading**  
 –	Midterm 1- 20 points  
