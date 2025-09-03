@@ -5,7 +5,7 @@
 ### [Topics](#Topics)
 ### [Tentative Agenda](#TentativeAgenda)
 ### [Assignments](#Assignments)
-
+### [AI-Engineering Certificate](#AI_Eng)
 ### <a id="CourseDescription"></a> Course Description
 This course provides an in-depth exploration of deep learning techniques and their practical applications across various engineering disciplines. Topics include Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Autoencoders, and Transformers to solve complex engineering challenges. Additionally, the course delves into the growing field of Explainable Machine Learning (XAI), ensuring that students learn to not only create powerful models but also focus on techniques for explainability, which are relevant in safety-critical applications, and to make models more transparent and understandable to stakeholders in engineering contexts to enhance model deployment. 
 
@@ -78,6 +78,12 @@ This course provides an in-depth exploration of deep learning techniques and the
 **Late submission**   
 There will be a penalty for late submission, on a per day basis with a limit. Default: 1 point penalty per day for maximum of 3 days (subject to change). Applies to the two computational assignments. 
 
+### <a id="AI_Eng"></a> AI-Engineering Certificate
+# [Graduate Certificate in AI-Engineering](https://www.umass.edu/engineering/academics/ai-engineering-graduate-certificate/curriculum-ai-graduate-certificate).
+Requirements: 3 courses at 600-level or higher  
+* Core 1- Statistical Machine Learning (CEE 601 or MIE 622 pre-requisite of this class)
+* Core 2 - Deep Learing (MIE 690D, ECE 601, o CEE 616)
+* Elective - Select from the [list]((https://www.umass.edu/engineering/academics/ai-engineering-graduate-certificate/curriculum-ai-graduate-certificate))
 
 
 
