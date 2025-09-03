@@ -41,33 +41,42 @@ This course provides an in-depth exploration of deep learning techniques and the
 
 
 ### <a id="TentativeAgenda"></a> Tentative Agenda
-Week	| Topic	| Lecture | Content  
-* Week 1	Introduction 	Overview of deep learning in engineering fields     
-**Neural Networks for Tabular Data**  
-* Week 2	Overview of optimization techniques	Gradient descent, and optimization techniques  
-* Week 3	Deep neural network architecture	ANN architecture, neurons, activation functions, backpropagation
-* Week 4	Best practices	Regularization methods (L2, dropout), batch normalization, weight initialization strategies
-* Week 5	Explainable AI (XAI) 	Explainable AI (XAI) techniques from perspective of deep neural networks  
-**Neural Networks for Images**
-* Week 6	CNN	CNN architecture, convolutional and pooling layers, fully connected layers, filters, feature extraction
-* Week 7	Applications	Applications in engineering: structural health monitoring, defect detection, and biomedical imaging  
-**Neural Networks for Sequences**
-* Week 8	Recurrent Neural Networks (RNNs)	Introduction to RNNs
-* Week 9	Advanced RNNs	 Long-Short Term Memory, and Gated Recurrent Units
-* Week 10	Autoencoders	Autoencoders, encoder-decoder architecture, applications in data compression and anomaly detection
-* Week 11	Attention networks	Attention mechanisms, applications in process control and dynamic system modeling
-* Week 12	Explainable AI (XAI) techniques from perspective of CNN and RNN
-* Week 13	Transformers	Self-attention, multi-head attention
-* Week 14	Large Language Models 	Applications in engineering
+# Course Schedule
+
+| Date    | Week   | Topic                               | Mon/Wed                                   |
+|---------|--------|-------------------------------------|-------------------------------------------|
+| 1-Sep   | Week 1 | Introduction                        | —                                         |
+| 8-Sep   | Week 2 | Overview of SML                     | Lecture / Lab                             |
+| **Neural Networks for Structured Data** |        |                                     |                                           |
+| 15-Sep  | Week 3 | FFNN basics                         | Lecture / Lab                             |
+| 22-Sep  | Week 4 | FFNN deeper-dive                    | Lecture / Lab                             |
+| 29-Sep  | Week 5 | Explainable AI (XAI)                | Lecture / Lab                             |
+| 6-Oct   | Week 6 | Engineering in AI                   | Lecture / Lab                             |
+| 13-Oct  | Week 7 | Midterm Exam 1                      | Holiday / Exam 1                          |
+| **Neural Networks for Images** |        |                                     |                                           |
+| 20-Oct  | Week 8 | CNN                                 | Lecture / Lab                             |
+| 27-Oct  | Week 9 | XAI for CNN                         | Lecture / Lab|
+| **Neural Networks for Sequences** |        |                              |                                           |
+| 3-Nov   | Week 10| RNN                                 | Lecture / Lab                             |
+| 10-Nov  | Week 11| Advanced RNN                        | Lecture / Lab                             |
+| 17-Nov  | Week 12| Autoencoders, Attention networks    | Lecture / Lab                             |
+| 24-Nov  | Week 13| Midterm Exam 2                      | Exam 2 / Holiday                          |
+| 1-Dec   | Week 14| Transformers, LLM                   | Lecture / Lab                             |
+| 8-Dec   | Week 15| Project presentation / No class     | —                                         |
+|         |        | **Project report due Dec 14 (Sunday)** |                                           |
 
 ### <a id="Assignments"></a> Assignments
-Assignments for the 600-level class will have an additional question that requires a deeper understanding of the mathematical concepts of the algorithms.  
+**Assignments**
+* Midterm 1: 20 points
+*	Midterm 2: 20 points
+*	Computational assignment 1: 10 points 
+*	Computational assignment 2: 10 points 
+*	Class participation: 10 points (computational assignments in lab)
+*	Team Project (2 per group): 30 points   
+*Assignments for the 600-level class will have an additional question that requires an understanding of the techniques studied.*
 
-**Grading**  
-–	Midterm 1- 20 points  
-–	Midterm 2- 20 points  
-–	Computational (in Python) assignments 30 points  
-–	Project: 30 points 
+**Late submission**   
+There will be a penalty for late submission, on a per day basis with a limit. Default: 1 point penalty per day for maximum of 3 days (subject to change). Applies to the two computational assignments. 
 
 
 
