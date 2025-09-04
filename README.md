@@ -1,10 +1,10 @@
-MIE590/690D Deep Learning for Engineering     
+## MIE590/690D Deep Learning for Engineering     
 
 
-[0 Syllabus](0_Syllabus.md) || [Syllabus and Introduction](https://github.com/chaitragopalappa/MIE590-690D/blob/main/0_Syllabus_and_Introduction.ipynb)  
+
 | Date (first day of week)   | Week   | Topic                               | Mon/Wed                                   |
 |---------|--------|-------------------------------------|-------------------------------------------|
-| 1-Sep   | Week 1 | Introduction                        | -/[Introduction](https://github.com/chaitragopalappa/MIE590-690D/blob/main/0_Syllabus_and_Introduction.ipynb)                                         |
+| 1-Sep   | Week 1 | Introduction                        | [Syllabus](0_Syllabus.md)/[Introduction](https://github.com/chaitragopalappa/MIE590-690D/blob/main/0_Syllabus_and_Introduction.ipynb)                                         |
 | 8-Sep   | Week 2 | Overview of SML                     | [Lecture](https://github.com/chaitragopalappa/MIE590-690D/blob/main/1_Lecture_Fundamentals_of_AI_ML.ipynb) / [Lab](https://github.com/chaitragopalappa/MIE590-690D/blob/main/1_Lab_StatisticalML.ipynb)                             |
 | **Neural Networks for Structured Data** |        |                                     |                                           |
 | 15-Sep  | Week 3 | FFNN basics                         | Lecture / Lab                             |
