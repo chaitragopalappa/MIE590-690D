@@ -8,7 +8,7 @@
 | 8-Sep   | Week 2 | Overview of SML                     | [Lecture](https://github.com/chaitragopalappa/MIE590-690D/blob/main/1_Lecture_Fundamentals_of_AI_ML.ipynb) / [Lab](https://github.com/chaitragopalappa/MIE590-690D/blob/main/1_Lab_StatisticalML.ipynb)                             |
 | **Deep Learning for Structured Data** |        |                                     |                                           |
 | 15-Sep  | Week 3 | FFNN basics                         | [Lecture](https://github.com/chaitragopalappa/MIE590-690D/blob/main/2_Lecture_NN_tabular_data_Basics.ipynb) / [Lab](https://github.com/chaitragopalappa/MIE590-690D/blob/main/2_Lab_NN_tabular_data_Basics.ipynb)                             |
-| 22-Sep  | Week 4 | FFNN deeper-dive                    | Lecture / Lab                             |
+| 22-Sep  | Week 4 | FFNN deeper-dive                    | [Lecture](https://github.com/chaitragopalappa/MIE590-690D/blob/main/3_Lecture_NN_tabular_data_DeeperDive.ipynb) / [Lab](https://github.com/chaitragopalappa/MIE590-690D/blob/main/3_Lab_NN_tabular_data_DeeperDive.ipynb)                             |
 | 29-Sep  | Week 5 | Explainable AI (XAI)                | Lecture / Lab                             |
 | 6-Oct   | Week 6 | Engineering in AI                   | Lecture / Lab                             |
 | 13-Oct  | Week 7 | Midterm Exam 1                      | Holiday / Exam 1                          |
