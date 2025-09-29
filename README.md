@@ -13,7 +13,7 @@
 | 6-Oct   | Week 6 | Engineering in AI                   | Lecture / Lab                             |
 | 13-Oct  | Week 7 | Midterm Exam 1                      | Holiday / Exam 1                          |
 | **Deep Learning for Images** |        |                                     |                                           |
-| 20-Oct  | Week 8 | CNN                                 | Lecture / Lab                             |
+| 20-Oct  | Week 8 | CNN                                 | [Lecture](https://github.com/chaitragopalappa/MIE590-690D/blob/main/5_NN_for_image_data.ipynb) / Lab                             |
 | 27-Oct  | Week 9 | XAI for CNN                         | Lecture / Lab|
 | **Deep Learning for Sequences** |        |                              |                                           |
 | 3-Nov   | Week 10| RNN                                 | Lecture / Lab                             |
