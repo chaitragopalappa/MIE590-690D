@@ -30,7 +30,7 @@ This course provides an in-depth exploration of deep learning techniques and the
   * [SHAP](https://github.com/shap/shap#deep-learning-example-with-gradientexplainer-tensorflowkeraspytorch-models)  
   * [CAPTUM](https://captum.ai/docs/attribution_algorithms)  
   * [TF-Explain](https://pypi.org/project/tf-explain/) [GitHUB](https://github.com/sicara/tf-explain)
-* [Hands-On-Deep-Learning-Algorithms-with-Python](https://github.com/PacktPublishing/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master)
+* [Hands-On-Deep-Learning-Algorithms-with-Python, by Sudharsan Ravichandiran](https://github.com/PacktPublishing/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master)
   
 
 ### <a id="Topics"></a> Topics  
