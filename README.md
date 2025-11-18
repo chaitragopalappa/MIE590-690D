@@ -1,5 +1,5 @@
 ## MIE590/690D Deep Learning for Engineering     
-
+This repo is created for lecture notes for MIE590D/690D. It is not meant for distrbution. The contents include information from many sources that are cited in respective notebooks.
 
 
 | Date (first day of week)   | Week   | Topic                               | Mon/Wed                                   |
